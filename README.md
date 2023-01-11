@@ -4,7 +4,7 @@
 
 
 
-### 📢 Немного обо мне
+### 📢 Кратко о себе
 - Научный сотрудник в [ИКТИ РАН](https://www.ikti.ru);
 - С/С++ разработчик с 2016 года в компании [Assisted Surgical Technologies](https://ast.one/home), где принимаю участие в разработке ассистирующего хирургического комплекса;
 - Увлекаюсь спортивной статистикой с теоретической точки зрения, что и вылилось в два проекта,  представленных в репозитории;
@@ -32,6 +32,8 @@
 
 ### :fire: Статистика
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=glahiator&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=glahiator&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=glahiator&theme=github)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glahiator&layout=compact&hide=qml&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
+### :fire: Проекты
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=glahiator&repo=for_how_long)](https://github.com/glahiator/for_how_long)
