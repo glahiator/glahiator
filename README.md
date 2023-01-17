@@ -34,7 +34,3 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=glahiator&theme=github)
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=glahiator&layout=compact&hide=qml&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### :fire: Проекты
-
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=glahiator&repo=for_how_long)](https://github.com/glahiator/for_how_long)
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=glahiator&repo=GraphPlot)](https://github.com/glahiator/GraphPlot)
