@@ -32,5 +32,5 @@
 
 ### :fire: Статистика
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=glahiator&theme=github)
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=glahiator&layout=compact&hide=qml&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=glahiator&layout=compact&hide=qml&exclude_repo=basket_total&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
